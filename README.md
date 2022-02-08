@@ -1,2 +1,4 @@
 # holi2
-prueba customer
+My first reposotory on GitHub
+
+I love 🐶 🍕 🌇
