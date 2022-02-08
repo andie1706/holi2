@@ -1,4 +1,4 @@
 # holi2
-My first reposotory on GitHub
+My first repository on GitHub
 
 I love 🐶 🍕 🌇
